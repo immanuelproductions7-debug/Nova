@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NOVA</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <nav class="nav">
+    <a href="index.html" class="nav-logo">NOVA</a>
+    <div class="nav-links">
+      <a href="about.html" class="nav-link">About</a>
+      <a href="tour.html" class="nav-link">Tour</a>
+      <a href="music.html" class="nav-link">Music</a>
+      <a href="contact.html" class="nav-link">Contact</a>
+    </div>
+  </nav>
+
+  <header>
+    <div class="particles" id="particles-js"></div>
+    <div class="header-content">
+      <h1>NOVA</h1>
+      <p class="tagline">Sonic Architect of the Future</p>
+
+      <div class="visualizer">
+        <!-- bars -->
+        <div class="bar" style="--i:0; height: 30%"></div>
+        <div class="bar" style="--i:1; height: 70%"></div>
+        <div class="bar" style="--i:2; height: 40%"></div>
+        <div class="bar" style="--i:3; height: 90%"></div>
+        <div class="bar" style="--i:4; height: 20%"></div>
+        <div class="bar" style="--i:5; height: 60%"></div>
+        <div class="bar" style="--i:6; height: 50%"></div>
+        <div class="bar" style="--i:7; height: 80%"></div>
+        <div class="bar" style="--i:8; height: 30%"></div>
+        <div class="bar" style="--i:9; height: 70%"></div>
+      </div>
+
+      <div class="music-player">
+        <div class="track">
+          <div class="track-info">
+            <h3>Neon Dreams</h3>
+            <p>3:42 • NEW SINGLE</p>
+          </div>
+          <div class="play-btn">▶</div>
+        </div>
+        <div class="track">
+          <div class="track-info">
+            <h3>Quantum Love</h3>
+            <p>4:15 • ALBUM: COSMIC</p>
+          </div>
+          <div class="play-btn">▶</div>
+        </div>
+        <div class="track">
+          <div class="track-info">
+            <h3>Digital Mirage</h3>
+            <p>3:28 • ALBUM: COSMIC</p>
+          </div>
+          <div class="play-btn">▶</div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+  <script src="scripts.js"></script>
+</body>
+</html>

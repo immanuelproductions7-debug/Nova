@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About NOVA</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <nav class="nav">
+    <a href="index.html" class="nav-logo">NOVA</a>
+    <div class="nav-links">
+      <a href="about.html" class="nav-link">About</a>
+      <a href="tour.html" class="nav-link">Tour</a>
+      <a href="music.html" class="nav-link">Music</a>
+      <a href="contact.html" class="nav-link">Contact</a>
+    </div>
+  </nav>
+
+  <section>
+    <h2>About NOVA</h2>
+    <p>NOVA is a sonic architect blending futuristic soundscapes with immersive visuals. Born from the stars, built for the stage.</p>
+  </section>
+</body>
+</html>
