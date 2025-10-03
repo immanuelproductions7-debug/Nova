@@ -4,16 +4,16 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>About NOVA</title>
-  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="Style.css.txt" />
 </head>
 <body>
   <nav class="nav">
-    <a href="index.html" class="nav-logo">NOVA</a>
+  <a href="Index.html.txt" class="nav-logo">NOVA</a>
     <div class="nav-links">
-      <a href="about.html" class="nav-link">About</a>
-      <a href="tour.html" class="nav-link">Tour</a>
-      <a href="music.html" class="nav-link">Music</a>
-      <a href="contact.html" class="nav-link">Contact</a>
+  <a href="about.html.txt" class="nav-link">About</a>
+  <a href="tour.html.txt" class="nav-link">Tour</a>
+  <a href="music.html.txt" class="nav-link">Music</a>
+  <a href="contact.html.txt" class="nav-link">Contact</a>
     </div>
   </nav>
 
