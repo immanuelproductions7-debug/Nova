@@ -1,3 +1,4 @@
+
 /* Hamburger open animation */
 .nav-toggle.open span:nth-child(1) {
   transform: translateY(8px) rotate(45deg);
